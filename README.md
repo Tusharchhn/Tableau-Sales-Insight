@@ -1,4 +1,4 @@
-# AtliQ Sales Insights PowerBi Dashboard
+# AtliQ Sales Insights Tableau Dashboard
 
 ## Problem statement
 
